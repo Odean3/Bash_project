@@ -1,7 +1,7 @@
 # Bash_project
 this is my attempt at making a mini shell using C 
 
-The implemented features are: 
+The shell's features are: 
 ## 1-implemented
 - **cwd**:(current working directory) that displays the path to the working directory before we input any command.
 - **cd:**(change directory) this allows us to change directory inside our mini shell but not globally.
