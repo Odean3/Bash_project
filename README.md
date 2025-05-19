@@ -4,7 +4,7 @@ this is my attempt at making a mini shell using C
 The implemented features are: 
 ## 1-implemented
 - **cwd**:(current working directory) that displays the path to the working directory before we input any command.
-- **cd:(**change directory) this allows us to change directory inside our mini shell but not globally.
+- **cd:**(change directory) this allows us to change directory inside our mini shell but not globally.
 - **help:** it displays all the implemented commands and some basic info about the shell.
 - **exit**: causes the termination of all running procedure inside the mini-shell.
 - **gacha**:(my implementation) it's an addition of mine .What it does is display a thinking animation and then gives the user a mostly pejorative adjective to describe them , it was inspired by the cowsay.
