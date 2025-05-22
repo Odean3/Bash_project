@@ -26,4 +26,4 @@ now execute it
 ```
 
 ## 4- demo:
-![[simplescreenrecorder-2025-05-22_18.31.39.mkv]]
+![[simplescreenrecorder-2025-05-22_18.31.39.mp4]]
