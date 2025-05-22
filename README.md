@@ -24,3 +24,6 @@ now execute it
 ```
 ./shell
 ```
+
+## 4- demo:
+![[simplescreenrecorder-2025-05-22_18.31.39.mkv]]
