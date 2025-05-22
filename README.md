@@ -26,4 +26,4 @@ now execute it
 ```
 
 ## 4- demo:
-![[simplescreenrecorder-2025-05-22_18.31.39.mp4]]
+<https://github.com/Odean3/Bash_project/edit/main/simplescreenrecorder-2025-05-22_18.31.39.mp4>
